@@ -1096,3 +1096,659 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.14-13.27.55:225][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.04.14-13.27.56:556][149]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.04.14-13.29.38:960][147]LogDerivedDataCache: C:/Users/Akzho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.069 and deleted 0 files with total size 0 MiB. Scanned 1764 files in 1755 folders with total size 39 MiB.
+[2023.04.14-13.33.27:252][ 23]LogViewport: Scene viewport resized to 988x697, mode Windowed.
+[2023.04.14-13.33.29:209][176]LogViewport: Scene viewport resized to 1523x1175, mode Windowed.
+[2023.04.14-13.36.21:246][513]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.14-13.39.03:034][103]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.14-13.39.03:049][103]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.14-13.39.03:060][104]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.14-13.39.05:270][281]LogContentBrowser: Attempting asset rename: NewFolder -> IDK
+[2023.04.14-13.39.05:271][281]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.14-13.39.07:359][410]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.04.14-13.39.07:359][410]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.04.14-13.39.18:503][461]LogObjectTools: Deleting 1 worlds: /Game/IDK/Maps/MyLvl.MyLvl
+[2023.04.14-13.39.18:503][461]LogObjectTools: Currently 5 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2023.04.14-13.39.18:529][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.14-13.39.19:940][461]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.14-13.39.19:943][461]LogWorld: UWorld::CleanupWorld for MyLvl, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.39.19:943][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.39.19:966][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.04.14-13.39.19:988][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.14-13.39.20:009][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.14-13.39.28:295][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.39.28:340][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.39.28:340][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Maps/MyLvl" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-13.39.28:364][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.14-13.39.28:371][ 41]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.006295 seconds
+[2023.04.14-13.39.28:373][ 41]LogSerialization: UsePackageTrailer: 'true'
+[2023.04.14-13.39.28:376][ 41]LogSavePackage: Moving output files for package: /Game/IDK/Maps/MyLvl
+[2023.04.14-13.39.28:376][ 41]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/MyLvlFDAEB3314A1367E6EA98F587CBF33102.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap'
+[2023.04.14-13.39.28:380][ 41]LogFileHelpers: Saving map 'MyLvl' took 0.041
+[2023.04.14-13.39.28:386][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms
+[2023.04.14-13.39.28:416][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.14-13.39.28:438][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.14-13.39.28:459][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.14-13.39.28:477][ 41]AssetCheck: New page: Asset Save: MyLvl
+[2023.04.14-13.39.28:477][ 41]LogContentValidation: Display: Validating /Script/Engine.World /Game/IDK/Maps/MyLvl.MyLvl
+[2023.04.14-13.39.39:539][300]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.14-13.39.39:578][300]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.14-13.39.39:589][301]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.14-13.39.48:912][915]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2023.04.14-13.39.48:912][915]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.14-13.40.08:295][878]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.08:296][878]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.08:296][878]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.10:001][878]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.14-13.40.10:005][878]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.14-13.40.10:012][878]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.14-13.40.10:045][880]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.14-13.40.18:249][488]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Wizard
+[2023.04.14-13.40.18:262][488]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.14-13.40.19:212][552]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-13.40.19:212][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.40.19:642][552]LogViewport: Scene viewport resized to 1523x1175, mode Windowed.
+[2023.04.14-13.40.42:474][854]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.42:474][854]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.42:474][854]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-13.40.47:849][405]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard from Character to BP_ThirdPersonCharacter_C...
+[2023.04.14-13.40.47:855][405]BlueprintLog: New page: Compile BP_Wizard
+[2023.04.14-13.40.47:949][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Total job queries 99, among them cache hits 8 (8.08%)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 73 distinct outputs (82.95%)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Shaders Compiled: 88
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Jobs assigned 91, completed 88 (96.70%)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Average time worker was idle: 68.76 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Time job spent in pending queue: average 2.81 s, longest 16.04 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Job execution time: average 8.25 s, max 27.19 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Job life time (pending + execution): average 11.15 s, max 28.43
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.23 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.72 jobs/batch
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Average processing rate: 2.91 jobs/sec
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Total thread time: 157.78 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Total thread preprocess time: 3.65 s
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Percentage time preprocessing: 2.31%
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Effective parallelization: 5.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 4.65 sec, max 4.65 sec, min 4.65 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 4.61 sec, max 4.61 sec, min 4.61 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 54.78% of total time (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 4.34% of total time (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.40.48:451][436]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 4.19% of total time (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.40.48:452][436]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.13% of total time (compiled    9 times, average 0.72 sec, max 0.93 sec, min 0.51 sec)
+[2023.04.14-13.40.48:452][436]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.69% of total time (compiled    9 times, average 0.65 sec, max 0.84 sec, min 0.41 sec)
+[2023.04.14-13.40.48:452][436]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.40.51:254][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.40.51:336][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/BP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset" SILENT=true
+[2023.04.14-13.40.51:339][614]LogSavePackage: Moving output files for package: /Game/IDK/Character/BP_Wizard
+[2023.04.14-13.40.51:340][614]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/BP_WizardB1E77CD5430529431FE14888274A5749.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset'
+[2023.04.14-13.40.51:346][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 182 ms)
+[2023.04.14-13.40.51:353][614]AssetCheck: New page: Asset Save: BP_Wizard
+[2023.04.14-13.40.51:353][614]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-13.41.12:161][201]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.14-13.41.16:322][673]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.04.14-13.41.16:323][673]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.04.14-13.41.16:323][673]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.04.14-13.41.18:793][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.41.18:855][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/BP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset" SILENT=true
+[2023.04.14-13.41.18:858][839]LogSavePackage: Moving output files for package: /Game/IDK/Character/BP_Wizard
+[2023.04.14-13.41.18:859][839]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/BP_Wizard1C5701B248EACE70FB22E8A1EA14D3F7.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset'
+[2023.04.14-13.41.18:862][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 251 ms)
+[2023.04.14-13.41.18:869][839]AssetCheck: New page: Asset Save: BP_Wizard
+[2023.04.14-13.41.18:869][839]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-13.41.19:502][883]BlueprintLog: New page: Compile BP_Wizard
+[2023.04.14-13.41.19:576][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.14-13.41.53:744][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.14-13.41.53:749][928]LogAssetEditorSubsystem: Opening Asset editor for World /Game/IDK/Maps/MyLvl.MyLvl
+[2023.04.14-13.41.53:749][928]Cmd: MAP LOAD FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.14-13.41.53:749][928]LightingResults: New page: Lighting Build
+[2023.04.14-13.41.53:749][928]LoadErrors: New page: Loading map: MyLvl.umap
+[2023.04.14-13.41.53:812][928]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.41.53:812][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.41.53:813][928]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.04.14-13.41.53:813][928]MapCheck: New page: Map Check
+[2023.04.14-13.41.53:813][928]LightingResults: New page: Lighting Build
+[2023.04.14-13.41.53:843][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-13.41.53:856][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.14-13.41.53:861][928]LogWorld: UWorld::CleanupWorld for MyLvl, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.41.53:861][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.41.53:893][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.14-13.41.53:925][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.14-13.41.53:927][928]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyLvl'.
+[2023.04.14-13.41.53:927][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.41.53:928][928]LogAIModule: Creating AISystem for world MyLvl
+[2023.04.14-13.41.53:934][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.14-13.41.53:966][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.14-13.41.53:974][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.14-13.41.53:974][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2023.04.14-13.41.53:974][928]LogFileHelpers: Loading map 'MyLvl' took 0.225
+[2023.04.14-13.42.01:425][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IDK/Character/BP_Wizard.BP_Wizard_C
+[2023.04.14-13.42.01:425][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IDK/Character/BP_Wizard.BP_Wizard_C
+[2023.04.14-13.42.01:427][632]LogActorFactory: Actor Factory spawned Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard as actor: BP_Wizard_C /Game/IDK/Maps/MyLvl.MyLvl:PersistentLevel.BP_Wizard_C_0
+[2023.04.14-13.42.01:429][632]LogActorFactory: Actor Factory spawned Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard as actor: BP_Wizard_C /Game/IDK/Maps/MyLvl.MyLvl:PersistentLevel.BP_Wizard_C_0
+[2023.04.14-13.42.01:432][632]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.14-13.42.01:974][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IDK/Character/BP_Wizard.BP_Wizard_C
+[2023.04.14-13.42.01:975][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IDK/Character/BP_Wizard.BP_Wizard_C
+[2023.04.14-13.42.01:977][683]LogActorFactory: Actor Factory spawned Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard as actor: BP_Wizard_C /Game/IDK/Maps/MyLvl.MyLvl:PersistentLevel.BP_Wizard_C_1
+[2023.04.14-13.42.01:979][683]LogActorFactory: Actor Factory spawned Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard as actor: BP_Wizard_C /Game/IDK/Maps/MyLvl.MyLvl:PersistentLevel.BP_Wizard_C_1
+[2023.04.14-13.42.02:066][684]LogViewport: Scene viewport resized to 802x476, mode Windowed.
+[2023.04.14-13.44.09:961][880]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.04.14-13.44.09:967][880]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.04.14-13.44.09:975][880]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.04.14-13.44.10:006][881]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.04.14-13.44.19:886][426]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Wizard
+[2023.04.14-13.44.19:892][426]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.04.14-13.44.25:197][561]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-13.44.25:197][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.44.25:240][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.44.25:248][561]LogStaticMesh: Display: Building static mesh Sphere_inversenormals...
+[2023.04.14-13.44.25:254][561]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2023.04.14-13.44.25:271][561]LogStaticMesh: Display: Building static mesh Floor_Mesh...
+[2023.04.14-13.44.25:272][561]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2023.04.14-13.44.25:291][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-13.44.26:059][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Total job queries 139, among them cache hits 12 (8.63%)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 94 distinct outputs (77.69%)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: RAM used: 0.41 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Shaders Compiled: 121
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Jobs assigned 127, completed 121 (95.28%)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Average time worker was idle: 96.67 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Time job spent in pending queue: average 2.03 s, longest 16.04 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Job execution time: average 6.19 s, max 27.19 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Job life time (pending + execution): average 8.32 s, max 28.43
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.75 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.43 jobs/batch
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Average processing rate: 3.38 jobs/sec
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Total thread time: 172.65 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Total thread preprocess time: 4.71 s
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Percentage time preprocessing: 2.73%
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Effective parallelization: 4.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 4.65 sec, max 4.65 sec, min 4.65 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 4.61 sec, max 4.61 sec, min 4.61 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 50.07% of total time (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.97% of total time (compiled   17 times, average 0.71 sec, max 0.93 sec, min 0.50 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.03% of total time (compiled   17 times, average 0.61 sec, max 0.84 sec, min 0.41 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.97% of total time (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 3.83% of total time (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.44.26:061][561]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.44.26:425][561]LogViewport: Scene viewport resized to 634x556, mode Windowed.
+[2023.04.14-13.44.43:739][389]LogSlate: Took 0.003397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.14-13.45.25:317][180]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2023.04.14-13.45.25:322][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.45.25:346][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-13.45.25:461][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.45.25:792][180]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.04.14-13.45.25:798][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.45.25:810][180]LogViewport: Scene viewport resized to 1523x721, mode Windowed.
+[2023.04.14-13.45.25:823][180]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.14-13.45.50:004][442]LogSlate: Window 'Idle01Anim' being destroyed
+[2023.04.14-13.45.50:007][442]LogSlate: Window 'Idle01Anim' being destroyed
+[2023.04.14-13.45.50:012][442]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:012][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:059][442]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.14-13.45.50:059][442]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:059][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:107][442]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:107][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:140][442]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:140][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:171][442]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:171][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:189][442]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:189][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:198][442]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:198][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.45.50:226][442]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-13.45.50:226][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-13.46.20:054][ 59]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-13.46.20:054][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.46.20:075][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.46.20:078][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-13.46.20:612][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.46.20:666][ 59]LogViewport: Scene viewport resized to 634x556, mode Windowed.
+[2023.04.14-13.47.03:158][573]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.14-13.47.07:328][775]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.04.14-13.47.07:690][796]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2023.04.14-13.47.07:690][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.47.07:716][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-13.47.07:825][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.47.07:894][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.47.07:909][796]LogViewport: Scene viewport resized to 1523x721, mode Windowed.
+[2023.04.14-13.47.07:915][796]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.14-13.47.50:135][755]BlueprintLog: New page: Compile ABP_Wizard
+[2023.04.14-13.47.50:303][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.14-13.47.52:259][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.47.52:325][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/ABP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset" SILENT=true
+[2023.04.14-13.47.52:331][845]LogSavePackage: Moving output files for package: /Game/IDK/Character/ABP_Wizard
+[2023.04.14-13.47.52:331][845]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_Wizard7AD321CC4660F0B87A5C68A6F0BBCDA1.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset'
+[2023.04.14-13.47.52:339][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 331 ms)
+[2023.04.14-13.47.52:348][845]AssetCheck: New page: Asset Save: ABP_Wizard
+[2023.04.14-13.47.52:348][845]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-13.47.54:246][872]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.04.14-13.47.58:770][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.47.58:821][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Maps/MyLvl" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-13.47.58:928][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.14-13.47.58:961][ 99]LogSavePackage: Moving output files for package: /Game/IDK/Maps/MyLvl
+[2023.04.14-13.47.58:962][ 99]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/MyLvl097DABC14B71524DBCDC7989B0A372D2.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap'
+[2023.04.14-13.47.58:970][ 99]LogFileHelpers: Saving map 'MyLvl' took 0.150
+[2023.04.14-13.47.58:975][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 536 ms)
+[2023.04.14-13.47.58:980][ 99]AssetCheck: New page: Asset Save: MyLvl
+[2023.04.14-13.47.58:980][ 99]LogContentValidation: Display: Validating /Script/Engine.World /Game/IDK/Maps/MyLvl.MyLvl
+[2023.04.14-13.48.54:599][736]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Total job queries 142, among them cache hits 15 (10.56%)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Tracking 127 distinct input hashes that result in 96 distinct outputs (75.59%)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Shaders Compiled: 127
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Jobs assigned 127, completed 127 (100.00%)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Average time worker was idle: 96.67 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Time job spent in pending queue: average 2.03 s, longest 16.04 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Job execution time: average 5.94 s, max 27.19 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Job life time (pending + execution): average 7.98 s, max 28.43
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.06 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.43 jobs/batch
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Average processing rate: 3.52 jobs/sec
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Total thread time: 176.00 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Total thread preprocess time: 4.93 s
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Percentage time preprocessing: 2.80%
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Effective parallelization: 4.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 4.65 sec, max 4.65 sec, min 4.65 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 4.61 sec, max 4.61 sec, min 4.61 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 49.11% of total time (compiled   17 times, average 5.08 sec, max 8.92 sec, min 1.77 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.53% of total time (compiled   19 times, average 0.70 sec, max 0.93 sec, min 0.50 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.58% of total time (compiled   19 times, average 0.61 sec, max 0.84 sec, min 0.41 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.89% of total time (compiled    1 times, average 6.85 sec, max 6.85 sec, min 6.85 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 3.76% of total time (compiled    1 times, average 6.61 sec, max 6.61 sec, min 6.61 sec)
+[2023.04.14-13.48.54:656][737]LogShaderCompilers: Display: ================================================
+[2023.04.14-13.48.57:831][893]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.04.14-13.48.57:831][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.48.57:854][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.48.57:857][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-13.48.58:293][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-13.48.58:372][893]LogViewport: Scene viewport resized to 634x556, mode Windowed.
+[2023.04.14-13.51.22:839][796]LogSlate: Took 0.003060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.14-13.57.03:261][875]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim
+[2023.04.14-13.58.01:519][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.14-13.58.01:531][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/IDK/Maps/MyLvl' took 0.045
+[2023.04.14-13.58.01:531][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/IDK/Character/ABP_Wizard] ([2] browsable assets)...
+[2023.04.14-13.58.01:546][496]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard]
+[2023.04.14-13.58.01:546][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDK/Character/ABP_Wizard]
+[2023.04.14-13.58.01:559][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IDK/Character/ABP_Wizard_Auto1
+[2023.04.14-13.58.01:559][496]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_Wizard_Auto129D371134E8A9D58BD5844AE48F10E97.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/Autosaves/Game/IDK/Character/ABP_Wizard_Auto1.uasset'
+[2023.04.14-13.58.01:559][496]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.04.14-13.59.14:541][729]BlueprintLog: New page: Compile ABP_Wizard
+[2023.04.14-13.59.14:592][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.14-13.59.15:308][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-13.59.15:366][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/ABP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset" SILENT=true
+[2023.04.14-13.59.15:383][763]LogSavePackage: Moving output files for package: /Game/IDK/Character/ABP_Wizard
+[2023.04.14-13.59.15:383][763]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_WizardC2E04578476A93E7C1A7C6B60BB6E183.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset'
+[2023.04.14-13.59.15:389][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 616 ms)
+[2023.04.14-13.59.15:395][763]AssetCheck: New page: Asset Save: ABP_Wizard
+[2023.04.14-13.59.15:395][763]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.00.07:551][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.00.07:597][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Maps/MyLvl" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-14.00.07:627][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.14-14.00.07:636][987]LogSavePackage: Moving output files for package: /Game/IDK/Maps/MyLvl
+[2023.04.14-14.00.07:636][987]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/MyLvlFD7D0378426B555050FAA898B2D3AF39.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap'
+[2023.04.14-14.00.07:645][987]LogFileHelpers: Saving map 'MyLvl' took 0.047
+[2023.04.14-14.00.07:649][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 713 ms)
+[2023.04.14-14.00.07:654][987]AssetCheck: New page: Asset Save: MyLvl
+[2023.04.14-14.00.07:654][987]LogContentValidation: Display: Validating /Script/Engine.World /Game/IDK/Maps/MyLvl.MyLvl
+[2023.04.14-14.00.09:194][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-14.00.09:200][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-14.00.09:200][ 75]PIE: New page: PIE session: MyLvl (15 апр. 2023 г., 02:00:09)
+[2023.04.14-14.00.09:202][ 75]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.14-14.00.09:203][ 75]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.14-14.00.09:203][ 75]LogPlayLevel: Creating play world package: /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.00.09:204][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001563s)
+[2023.04.14-14.00.09:204][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDK/Maps/MyLvl.MyLvl to /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl (0.001729s)
+[2023.04.14-14.00.09:205][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.00.09:205][ 75]LogAIModule: Creating AISystem for world MyLvl
+[2023.04.14-14.00.09:205][ 75]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2023.04.14-14.00.09:232][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.14-14.00.09:234][ 75]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-14.00.09:234][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.14-14.00.09:234][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-14.00.09:234][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-14.00.09:234][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-14.00.09:234][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-14.00.09:236][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-14.00.09:253][ 75]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.14-14.00.09:253][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-14.00.09:253][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-14.00.09:253][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-14.00.09:254][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.14-14.00.09:254][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.14-14.00.09:255][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.14-14.00.09:255][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.14-14.00.09:255][ 75]LogInit: FAudioDevice initialized.
+[2023.04.14-14.00.09:255][ 75]LogAudio: Display: Audio Device (ID: 2) registered with world 'MyLvl'.
+[2023.04.14-14.00.09:257][ 75]LogLoad: Game class is 'GameModeBase'
+[2023.04.14-14.00.09:258][ 75]LogWorld: Bringing World /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl up for play (max tick rate 0) at 2023.04.14-20.00.09
+[2023.04.14-14.00.09:258][ 75]LogWorld: Bringing up level for play took: 0.001110
+[2023.04.14-14.00.09:259][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.04.14-14.00.09:273][ 75]PIE: Server logged in
+[2023.04.14-14.00.09:273][ 75]PIE: Play in editor total start time 0,074 seconds.
+[2023.04.14-14.00.28:666][175]LogSlate: Window 'ABP_Manny' being destroyed
+[2023.04.14-14.00.28:669][175]LogSlate: Window 'ABP_Manny' being destroyed
+[2023.04.14-14.00.28:681][175]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:681][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:719][175]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:719][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:752][175]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:752][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:769][175]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:769][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:777][175]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:777][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:805][175]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:805][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:823][175]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:823][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:859][175]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:859][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.28:893][175]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.00.28:893][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.00.37:943][970]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BattleWizardPolyart/CharacterBP/WizardSM_BP.WizardSM_BP
+[2023.04.14-14.00.37:944][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.00.43:793][242]LogViewport: Scene viewport resized to 1523x1175, mode Windowed.
+[2023.04.14-14.01.17:514][ 27]LogSlate: Window 'WizardSM_BP' being destroyed
+[2023.04.14-14.01.17:517][ 27]LogSlate: Window 'WizardSM_BP' being destroyed
+[2023.04.14-14.01.17:521][ 27]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.01.17:521][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.01.28:358][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-14.01.28:358][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.01.32:913][442]LogSlate: Window 'BP_Wizard' being destroyed
+[2023.04.14-14.01.32:916][442]LogSlate: Window 'BP_Wizard' being destroyed
+[2023.04.14-14.01.32:921][442]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.01.32:921][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.01.37:938][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-14.01.37:938][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.01.46:599][628]LogSlate: Window 'BP_Wizard' being destroyed
+[2023.04.14-14.01.46:606][628]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.01.46:606][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.01.46:643][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-14.01.46:643][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.01.49:451][850]LogViewport: Scene viewport resized to 1523x1175, mode Windowed.
+[2023.04.14-14.02.02:092][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.02.02:092][675]LogWorld: BeginTearingDown for /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.02.02:092][675]LogWorld: UWorld::CleanupWorld for MyLvl, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.02.02:092][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.02.02:094][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-14.02.02:099][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.02.02:121][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-14.02.02:121][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.14-14.02.02:122][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.14-14.02.02:125][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.02.02:171][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.14-14.02.02:227][676]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.14-14.02.02:239][676]LogViewport: Scene viewport resized to 802x476, mode Windowed.
+[2023.04.14-14.02.03:701][743]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.04.14-14.02.03:758][743]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-14.02.03:758][743]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-14.02.03:758][743]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-14.02.16:319][850]BlueprintLog: New page: Compile BP_Wizard
+[2023.04.14-14.02.16:418][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.14-14.02.16:556][852]LogViewport: Scene viewport resized to 802x476, mode Windowed.
+[2023.04.14-14.02.16:809][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.02.16:872][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/BP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset" SILENT=true
+[2023.04.14-14.02.16:875][866]LogSavePackage: Moving output files for package: /Game/IDK/Character/BP_Wizard
+[2023.04.14-14.02.16:875][866]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/BP_WizardF57B13EA4E4F738EAD14F9906DA8CFB2.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/BP_Wizard.uasset'
+[2023.04.14-14.02.16:881][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 785 ms)
+[2023.04.14-14.02.16:888][866]AssetCheck: New page: Asset Save: BP_Wizard
+[2023.04.14-14.02.16:888][866]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IDK/Character/BP_Wizard.BP_Wizard
+[2023.04.14-14.02.18:163][929]LogSlate: Window 'BP_Wizard' being destroyed
+[2023.04.14-14.02.18:166][929]LogSlate: Window 'BP_Wizard' being destroyed
+[2023.04.14-14.02.18:170][929]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.02.18:170][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.02.19:745][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-14.02.19:751][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-14.02.19:751][ 23]PIE: New page: PIE session: MyLvl (15 апр. 2023 г., 02:02:19)
+[2023.04.14-14.02.19:751][ 23]LogPlayLevel: Creating play world package: /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.02.19:753][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2023.04.14-14.02.19:753][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDK/Maps/MyLvl.MyLvl to /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl (0.001727s)
+[2023.04.14-14.02.19:753][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.02.19:754][ 23]LogAIModule: Creating AISystem for world MyLvl
+[2023.04.14-14.02.19:754][ 23]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2023.04.14-14.02.19:773][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.14-14.02.19:801][ 23]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-14.02.19:801][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.14-14.02.19:801][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-14.02.19:801][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-14.02.19:801][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-14.02.19:801][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-14.02.19:803][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-14.02.19:819][ 23]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.14-14.02.19:819][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-14.02.19:819][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-14.02.19:819][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-14.02.19:820][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.14-14.02.19:820][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.14-14.02.19:821][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.14-14.02.19:821][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.14-14.02.19:821][ 23]LogInit: FAudioDevice initialized.
+[2023.04.14-14.02.19:821][ 23]LogAudio: Display: Audio Device (ID: 3) registered with world 'MyLvl'.
+[2023.04.14-14.02.19:822][ 23]LogLoad: Game class is 'GameModeBase'
+[2023.04.14-14.02.19:823][ 23]LogWorld: Bringing World /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl up for play (max tick rate 0) at 2023.04.14-20.02.19
+[2023.04.14-14.02.19:823][ 23]LogWorld: Bringing up level for play took: 0.001120
+[2023.04.14-14.02.19:825][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.04.14-14.02.19:826][ 23]PIE: Server logged in
+[2023.04.14-14.02.19:826][ 23]PIE: Play in editor total start time 0,075 seconds.
+[2023.04.14-14.03.10:641][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.03.10:641][ 38]LogWorld: BeginTearingDown for /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.03.10:641][ 38]LogWorld: UWorld::CleanupWorld for MyLvl, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.03.10:642][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.03.10:643][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-14.03.10:647][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.03.10:665][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-14.03.10:665][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.14-14.03.10:667][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.14-14.03.10:671][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.03.10:672][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.14-14.03.10:721][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.04.14-14.03.10:724][ 39]LogViewport: Scene viewport resized to 802x476, mode Windowed.
+[2023.04.14-14.03.12:476][152]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.03.12:477][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.12:498][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.12:501][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-14.03.13:001][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.13:066][152]LogViewport: Scene viewport resized to 634x556, mode Windowed.
+[2023.04.14-14.03.24:990][666]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2023.04.14-14.03.24:991][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.25:013][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-14.03.25:119][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.25:198][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.03.25:210][666]LogViewport: Scene viewport resized to 1523x721, mode Windowed.
+[2023.04.14-14.03.25:217][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.14-14.03.51:848][524]BlueprintLog: New page: Compile ABP_Wizard
+[2023.04.14-14.03.51:895][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.14-14.03.52:278][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.03.52:359][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/ABP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset" SILENT=true
+[2023.04.14-14.03.52:375][540]LogSavePackage: Moving output files for package: /Game/IDK/Character/ABP_Wizard
+[2023.04.14-14.03.52:375][540]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_WizardD302037245A45630E6EFFDB5F46966C4.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset'
+[2023.04.14-14.03.52:381][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 889 ms)
+[2023.04.14-14.03.52:387][540]AssetCheck: New page: Asset Save: ABP_Wizard
+[2023.04.14-14.03.52:387][540]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.04.01:542][993]BlueprintLog: New page: Compile ABP_Wizard
+[2023.04.14-14.04.01:590][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.14-14.04.02:324][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.04.02:399][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/ABP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset" SILENT=true
+[2023.04.14-14.04.02:415][ 28]LogSavePackage: Moving output files for package: /Game/IDK/Character/ABP_Wizard
+[2023.04.14-14.04.02:416][ 28]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_Wizard00154F8940835C86BF82078A4FEC7F64.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset'
+[2023.04.14-14.04.02:421][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 986 ms)
+[2023.04.14-14.04.02:429][ 28]AssetCheck: New page: Asset Save: ABP_Wizard
+[2023.04.14-14.04.02:429][ 28]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.04.03:568][ 83]LogSlate: Window 'Idle01Anim' being destroyed
+[2023.04.14-14.04.03:571][ 83]LogSlate: Window 'Idle01Anim' being destroyed
+[2023.04.14-14.04.03:581][ 83]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:581][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.03:618][ 83]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:618][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.03:650][ 83]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:650][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.03:666][ 83]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:666][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.03:673][ 83]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:673][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.03:701][ 83]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.03:701][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.05:282][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-14.04.05:287][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-14.04.05:287][184]PIE: New page: PIE session: MyLvl (15 апр. 2023 г., 02:04:05)
+[2023.04.14-14.04.05:287][184]LogPlayLevel: Creating play world package: /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.04.05:288][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2023.04.14-14.04.05:288][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDK/Maps/MyLvl.MyLvl to /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl (0.001787s)
+[2023.04.14-14.04.05:288][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.04.05:289][184]LogAIModule: Creating AISystem for world MyLvl
+[2023.04.14-14.04.05:289][184]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2023.04.14-14.04.05:319][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.14-14.04.05:348][184]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-14.04.05:348][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.14-14.04.05:348][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-14.04.05:348][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-14.04.05:348][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-14.04.05:348][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-14.04.05:349][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-14.04.05:367][184]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.14-14.04.05:367][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-14.04.05:368][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-14.04.05:368][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-14.04.05:368][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.14-14.04.05:368][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.14-14.04.05:369][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.14-14.04.05:369][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.14-14.04.05:369][184]LogInit: FAudioDevice initialized.
+[2023.04.14-14.04.05:369][184]LogAudio: Display: Audio Device (ID: 4) registered with world 'MyLvl'.
+[2023.04.14-14.04.05:371][184]LogLoad: Game class is 'GameModeBase'
+[2023.04.14-14.04.05:372][184]LogWorld: Bringing World /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl up for play (max tick rate 0) at 2023.04.14-20.04.05
+[2023.04.14-14.04.05:372][184]LogWorld: Bringing up level for play took: 0.001122
+[2023.04.14-14.04.05:374][184]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.04.14-14.04.05:374][184]PIE: Server logged in
+[2023.04.14-14.04.05:375][184]PIE: Play in editor total start time 0,088 seconds.
+[2023.04.14-14.04.15:841][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.04.15:841][240]LogWorld: BeginTearingDown for /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.04.15:841][240]LogWorld: UWorld::CleanupWorld for MyLvl, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.04.15:842][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.15:844][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-14.04.15:848][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.04.15:866][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-14.04.15:866][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.14-14.04.15:867][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.14-14.04.15:870][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-14.04.15:872][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.14-14.04.15:935][241]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.04.14-14.04.15:945][241]LogViewport: Scene viewport resized to 802x476, mode Windowed.
+[2023.04.14-14.04.29:571][442]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.04.29:571][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.04.29:593][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.04.29:596][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-14.04.30:096][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.04.30:162][442]LogViewport: Scene viewport resized to 634x556, mode Windowed.
+[2023.04.14-14.04.44:115][140]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.14-14.04.51:219][367]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2023.04.14-14.05.01:906][731]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.04.14-14.05.07:869][  1]BlueprintLog: New page: Compile ABP_Wizard
+[2023.04.14-14.05.07:919][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.14-14.05.08:370][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.05.08:454][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Character/ABP_Wizard" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset" SILENT=true
+[2023.04.14-14.05.08:469][ 21]LogSavePackage: Moving output files for package: /Game/IDK/Character/ABP_Wizard
+[2023.04.14-14.05.08:470][ 21]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/ABP_Wizard6B3C26E84A19AF665EA9DB95CE2A9B09.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Character/ABP_Wizard.uasset'
+[2023.04.14-14.05.08:476][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.09 sec)
+[2023.04.14-14.05.08:483][ 21]AssetCheck: New page: Asset Save: ABP_Wizard
+[2023.04.14-14.05.08:483][ 21]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/IDK/Character/ABP_Wizard.ABP_Wizard
+[2023.04.14-14.05.09:924][ 86]LogSlate: Window 'ABP_Wizard' being destroyed
+[2023.04.14-14.05.09:930][ 86]LogSlate: Window 'ABP_Wizard' being destroyed
+[2023.04.14-14.05.09:941][ 86]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.05.09:941][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.05.09:977][ 86]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.05.09:977][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.05.10:013][ 86]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-14.05.10:013][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-14.05.11:310][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-14.05.11:315][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-14.05.11:315][171]PIE: New page: PIE session: MyLvl (15 апр. 2023 г., 02:05:11)
+[2023.04.14-14.05.11:341][171]LogPlayLevel: Creating play world package: /Game/IDK/Maps/UEDPIE_0_MyLvl
+[2023.04.14-14.05.11:343][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001632s)
+[2023.04.14-14.05.11:343][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDK/Maps/MyLvl.MyLvl to /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl (0.001662s)
+[2023.04.14-14.05.11:343][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-14.05.11:343][171]LogAIModule: Creating AISystem for world MyLvl
+[2023.04.14-14.05.11:344][171]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2023.04.14-14.05.11:367][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.14-14.05.11:389][171]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-14.05.11:389][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.14-14.05.11:389][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-14.05.11:389][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-14.05.11:390][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-14.05.11:390][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-14.05.11:392][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-14.05.11:408][171]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.14-14.05.11:408][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-14.05.11:408][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-14.05.11:408][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-14.05.11:409][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.14-14.05.11:409][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.14-14.05.11:409][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.14-14.05.11:409][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.14-14.05.11:409][171]LogInit: FAudioDevice initialized.
+[2023.04.14-14.05.11:409][171]LogAudio: Display: Audio Device (ID: 5) registered with world 'MyLvl'.
+[2023.04.14-14.05.11:411][171]LogLoad: Game class is 'GameModeBase'
+[2023.04.14-14.05.11:412][171]LogWorld: Bringing World /Game/IDK/Maps/UEDPIE_0_MyLvl.MyLvl up for play (max tick rate 0) at 2023.04.14-20.05.11
+[2023.04.14-14.05.11:412][171]LogWorld: Bringing up level for play took: 0.001095
+[2023.04.14-14.05.11:413][171]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.04.14-14.05.11:414][171]PIE: Server logged in
+[2023.04.14-14.05.11:415][171]PIE: Play in editor total start time 0,1 seconds.
+[2023.04.14-14.05.32:793][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.05.32:794][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDK/Maps/MyLvl" FILE="../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-14.05.32:812][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.14-14.05.32:819][894]LogSavePackage: Moving output files for package: /Game/IDK/Maps/MyLvl
+[2023.04.14-14.05.32:819][894]LogSavePackage: Moving '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Saved/MyLvl2ACDD96744C045E5280D16B236A83F13.tmp' to '../../../../../../Users/Akzho/OneDrive/Документы/Unreal Projects/idk/Content/IDK/Maps/MyLvl.umap'
+[2023.04.14-14.05.32:827][894]LogFileHelpers: Saving map 'MyLvl' took 0.034
+[2023.04.14-14.05.32:827][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.12 sec)
+[2023.04.14-14.05.32:835][894]AssetCheck: New page: Asset Save: MyLvl
+[2023.04.14-14.05.32:835][894]LogContentValidation: Display: Validating /Script/Engine.World /Game/IDK/Maps/MyLvl.MyLvl
